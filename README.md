@@ -71,7 +71,6 @@ I wanted practical, hands-on experience with the tools and architecture used in 
 - Troubleshooting common VirtualBox/ISO mounting and boot-order issues
 - Reading and interpreting installer logs to diagnose failed installs
 - Basic network interface assignment and static IP configuration on a firewall appliance
-- *(Keep adding as you progress through AD, Sysmon, CrowdSec, etc.)*
 
 ## About
 
